@@ -5,7 +5,7 @@ import About from "@/views/About.vue";
 import Market from '@/views/Market.vue'
 const routes : RouteRecordRaw[] = [
   {
-    path: '/',
+    path: '',
     name: 'Home',
     // redirect: '/Home',
     component: Home,

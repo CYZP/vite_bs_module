@@ -7,12 +7,12 @@
         </div>
 
         <!-- 圖片 -->
-        <!-- <img src="../assets/images/20221107.jpg" alt="" srcset="" style="width: 100%;" class="mb-5 mt-5"> -->
+        <img src="../assets/images/20221107.jpg" alt="" srcset="" style="width: 100%;" class="mb-5 mt-5">
 
         <!-- 內文 -->
         <div class="text-center">
-            <!-- <p>來囉! 來囉! 超強補運日來囉!</p>
-            <p>2022年虎年 最後一天 天赦日</p> -->
+            <p>來囉! 來囉! 超強補運日來囉!</p>
+            <p>2022年虎年 最後一天 天赦日</p>
         </div>
         <!-- https://ithelp.ithome.com.tw/articles/10239500 html 文章編輯-->
         <!-- <div class=" article">
@@ -22,8 +22,8 @@
 </template>
 
 <script setup lang="ts">
-// const marqueeMsg = "超強開運日： 11月7日 天赦日 就在今天!!!"
-const marqueeMsg = "Jeffrey 好帥 是大帥哥!!!"
+const marqueeMsg = "超強開運日： 11月7日 天赦日 就在今天!!!"
+// const marqueeMsg = "Jeffrey 好帥 是大帥哥!!!"
 </script>
 
 <style scoped>
